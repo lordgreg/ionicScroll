@@ -1,0 +1,21 @@
+{
+  "generator-m": {
+    "answers": {
+      "appName": "ionic Scrolls",
+      "appId": "si.gpapez.ionicscrolls",
+      "bowerPackages": [
+        "angular-dynamic-locale#~0.1.27",
+        "angular-translate#~2.6.1",
+        "angular-translate-loader-static-files#~2.6.1",
+        "angular-localForage#~1.2.2"
+      ],
+      "platforms": [
+        "android"
+      ],
+      "plugins": [
+        "cordova-plugin-device"
+      ],
+      "appModule": "ionicScrolls"
+    }
+  }
+}
